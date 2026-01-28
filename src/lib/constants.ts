@@ -5,7 +5,7 @@ export const CATEGORIES: Category[] = [
     id: 'quantitative-aptitude',
     name: 'Quantitative Aptitude',
     description: 'Test your ability to solve numerical problems and interpret data.',
-    duration: 1, // 1 minute for demo
+    duration: 5, // 5 minutes
     questions: [
       {
         id: 'q1',
@@ -83,7 +83,7 @@ export const CATEGORIES: Category[] = [
     id: 'logical-reasoning',
     name: 'Logical Reasoning',
     description: 'Assess your logical thinking and problem-solving skills.',
-    duration: 1, // 1 minute for demo
+    duration: 5, // 5 minutes
     questions: [
       {
         id: 'l1',
@@ -161,7 +161,7 @@ export const CATEGORIES: Category[] = [
     id: 'verbal-ability',
     name: 'Verbal Ability',
     description: 'Evaluate your command of the English language and comprehension.',
-    duration: 1, // 1 minute for demo
+    duration: 5, // 5 minutes
     questions: [
       {
         id: 'v1',
@@ -239,7 +239,7 @@ export const CATEGORIES: Category[] = [
     id: 'data-interpretation',
     name: 'Data Interpretation',
     description: 'Analyze and interpret data from charts and graphs.',
-    duration: 1,
+    duration: 5,
     questions: [
       {
         id: 'd1',
@@ -317,7 +317,7 @@ export const CATEGORIES: Category[] = [
     id: 'general-knowledge',
     name: 'General Knowledge',
     description: 'Test your awareness of current events and general facts.',
-    duration: 1,
+    duration: 5,
     questions: [
       {
         id: 'g1',
@@ -395,7 +395,7 @@ export const CATEGORIES: Category[] = [
     id: 'mechanical-reasoning',
     name: 'Mechanical Reasoning',
     description: 'Understand and apply mechanical concepts.',
-    duration: 1,
+    duration: 5,
     questions: [
       {
         id: 'm1',
@@ -473,7 +473,7 @@ export const CATEGORIES: Category[] = [
     id: 'situational-judgement',
     name: 'Situational Judgement',
     description: 'Assess your responses to hypothetical work-related situations.',
-    duration: 1,
+    duration: 5,
     questions: [
       {
         id: 's1',
@@ -551,7 +551,7 @@ export const CATEGORIES: Category[] = [
     id: 'coding-programming',
     name: 'Coding & Programming',
     description: 'Test your knowledge of basic programming concepts.',
-    duration: 1,
+    duration: 5,
     questions: [
       {
         id: 'c1',
@@ -629,7 +629,7 @@ export const CATEGORIES: Category[] = [
     id: 'spatial-reasoning',
     name: 'Spatial Reasoning',
     description: 'Assess your ability to visualize and manipulate 2D and 3D objects.',
-    duration: 1,
+    duration: 5,
     questions: [
       {
         id: 'sr1',
@@ -707,7 +707,7 @@ export const CATEGORIES: Category[] = [
     id: 'abstract-reasoning',
     name: 'Abstract Reasoning',
     description: 'Identify patterns and relationships in abstract shapes and figures.',
-    duration: 1,
+    duration: 5,
     questions: [
       {
         id: 'ar1',
@@ -785,7 +785,7 @@ export const CATEGORIES: Category[] = [
     id: 'numerical-reasoning',
     name: 'Numerical Reasoning',
     description: 'Interpret and use numerical data to solve problems.',
-    duration: 1,
+    duration: 5,
     questions: [
       {
         id: 'nr1',
@@ -863,7 +863,7 @@ export const CATEGORIES: Category[] = [
     id: 'error-checking',
     name: 'Error Checking',
     description: 'Compare information and identify errors quickly and accurately.',
-    duration: 1,
+    duration: 5,
     questions: [
       {
         id: 'ec1',
@@ -941,7 +941,7 @@ export const CATEGORIES: Category[] = [
     id: 'reading-comprehension',
     name: 'Reading Comprehension',
     description: 'Read passages and answer questions based on the text.',
-    duration: 1,
+    duration: 5,
     questions: [
       {
         id: 'rc1',
@@ -1019,7 +1019,7 @@ export const CATEGORIES: Category[] = [
     id: 'basic-computer-knowledge',
     name: 'Basic Computer Knowledge',
     description: 'Test your understanding of fundamental computer concepts.',
-    duration: 1,
+    duration: 5,
     questions: [
       {
         id: 'bck1',
@@ -1097,7 +1097,7 @@ export const CATEGORIES: Category[] = [
     id: 'financial-literacy',
     name: 'Financial Literacy',
     description: 'Assess your knowledge of personal finance concepts.',
-    duration: 1,
+    duration: 5,
     questions: [
       {
         id: 'fl1',
@@ -1175,7 +1175,7 @@ export const CATEGORIES: Category[] = [
     id: 'critical-thinking',
     name: 'Critical Thinking',
     description: 'Analyze information objectively and make a reasoned judgment.',
-    duration: 1,
+    duration: 5,
     questions: [
       {
         id: 'ct1',
@@ -1253,7 +1253,7 @@ export const CATEGORIES: Category[] = [
     id: 'attention-to-detail',
     name: 'Attention to Detail',
     description: 'Test your ability to spot small details and inconsistencies.',
-    duration: 1,
+    duration: 5,
     questions: [
       {
         id: 'ad1',
@@ -1331,7 +1331,7 @@ export const CATEGORIES: Category[] = [
     id: 'problem-solving',
     name: 'Problem Solving',
     description: 'Apply logical and creative thinking to solve complex problems.',
-    duration: 1,
+    duration: 5,
     questions: [
       {
         id: 'ps1',
@@ -1409,7 +1409,7 @@ export const CATEGORIES: Category[] = [
     id: 'creativity',
     name: 'Creativity',
     description: 'Test your ability to think outside the box and generate new ideas.',
-    duration: 1,
+    duration: 5,
     questions: [
       {
         id: 'cr1',
@@ -1487,7 +1487,7 @@ export const CATEGORIES: Category[] = [
     id: 'emotional-intelligence',
     name: 'Emotional Intelligence',
     description: 'Assess your ability to perceive, use, understand, and manage emotions.',
-    duration: 1,
+    duration: 5,
     questions: [
       {
         id: 'ei1',
