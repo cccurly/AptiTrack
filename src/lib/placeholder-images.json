@@ -1,3 +1,22 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "quantitative",
+      "description": "An image representing quantitative aptitude, perhaps with numbers and graphs.",
+      "imageUrl": "https://images.unsplash.com/photo-1762427354220-ee06e69ee817?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYXRoJTIwY2hhcnRzfGVufDB8fHx8MTc2OTYxNDY1N3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "math charts"
+    },
+    {
+      "id": "logical",
+      "description": "An image representing logical reasoning, perhaps with puzzles or brain teasers.",
+      "imageUrl": "https://images.unsplash.com/photo-1637094410849-96576479b731?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxwdXp6bGUlMjBwaWVjZXN8ZW58MHx8fHwxNzY5NjE0NjU2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "puzzle pieces"
+    },
+    {
+      "id": "verbal",
+      "description": "An image representing verbal ability, perhaps with books or letters.",
+      "imageUrl": "https://images.unsplash.com/photo-1554906493-4812e307243d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxib29rcyUyMGxpYnJhcnl8ZW58MHx8fHwxNzY5NjEyOTQwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "books library"
+    }
+  ]
 }
