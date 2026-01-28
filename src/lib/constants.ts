@@ -206,4 +206,190 @@ export const CATEGORIES: Category[] = [
       },
     ],
   },
+  {
+    id: 'abstract-reasoning',
+    name: 'Abstract Reasoning',
+    description: 'Identify patterns and relationships in abstract shapes and figures.',
+    duration: 1,
+    questions: [
+      {
+        id: 'ar1',
+        question: 'Which figure completes the series?',
+        options: ['A', 'B', 'C', 'D'],
+        answer: 'B',
+        explanation: 'The pattern rotates 90 degrees clockwise in each step.',
+      },
+      {
+        id: 'ar2',
+        question: 'Which is the odd one out?',
+        options: ['Square', 'Circle', 'Triangle', 'Arrow'],
+        answer: 'Arrow',
+        explanation: 'Square, Circle, and Triangle are basic geometric shapes, while an arrow indicates direction.',
+      },
+    ],
+  },
+  {
+    id: 'numerical-reasoning',
+    name: 'Numerical Reasoning',
+    description: 'Interpret and use numerical data to solve problems.',
+    duration: 1,
+    questions: [
+      {
+        id: 'nr1',
+        question: 'A company\'s profit increased from $50,000 to $60,000. What is the percentage increase?',
+        options: ['10%', '20%', '25%', '30%'],
+        answer: '20%',
+        explanation: 'Increase = $10,000. Percentage Increase = (10,000 / 50,000) * 100 = 20%.',
+      },
+      {
+        id: 'nr2',
+        question: 'If a product costs $80 and is sold with a 25% profit margin, what is the selling price?',
+        options: ['$90', '$100', '$105', '$110'],
+        answer: '$100',
+        explanation: 'Profit = 25% of $80 = $20. Selling Price = Cost + Profit = $80 + $20 = $100.',
+      },
+    ],
+  },
+  {
+    id: 'error-checking',
+    name: 'Error Checking',
+    description: 'Compare information and identify errors quickly and accurately.',
+    duration: 1,
+    questions: [
+      {
+        id: 'ec1',
+        question: 'Original: John Smith, 123 Main St. Copy: Jon Smith, 123 Main St. Is there an error?',
+        options: ['Yes', 'No'],
+        answer: 'Yes',
+        explanation: 'The name "John" is misspelled as "Jon" in the copy.',
+      },
+      {
+        id: 'ec2',
+        question: 'Original: AB-45-CD-12. Copy: AB-45-CD-12. Is there an error?',
+        options: ['Yes', 'No'],
+        answer: 'No',
+        explanation: 'The copy is identical to the original.',
+      },
+    ],
+  },
+  {
+    id: 'reading-comprehension',
+    name: 'Reading Comprehension',
+    description: 'Read passages and answer questions based on the text.',
+    duration: 1,
+    questions: [
+      {
+        id: 'rc1',
+        question: 'After reading a passage about the importance of recycling, what is the main idea?',
+        options: ['Recycling is difficult.', 'Recycling helps the environment.', 'Landfills are large.', 'Paper comes from trees.'],
+        answer: 'Recycling helps the environment.',
+        explanation: 'The main idea is the central point of the passage.',
+      },
+    ],
+  },
+  {
+    id: 'basic-computer-knowledge',
+    name: 'Basic Computer Knowledge',
+    description: 'Test your understanding of fundamental computer concepts.',
+    duration: 1,
+    questions: [
+      {
+        id: 'bck1',
+        question: 'What does CPU stand for?',
+        options: ['Central Processing Unit', 'Computer Personal Unit', 'Central Power Unit', 'Core Processing Unit'],
+        answer: 'Central Processing Unit',
+        explanation: 'The CPU is the primary component of a computer that performs most of the processing.',
+      },
+    ],
+  },
+    {
+    id: 'financial-literacy',
+    name: 'Financial Literacy',
+    description: 'Assess your knowledge of personal finance concepts.',
+    duration: 1,
+    questions: [
+      {
+        id: 'fl1',
+        question: 'What is compound interest?',
+        options: ['Interest on the principal amount only', 'Interest calculated on the initial principal and also on the accumulated interest', 'A one-time fee', 'Interest paid in advance'],
+        answer: 'Interest calculated on the initial principal and also on the accumulated interest',
+        explanation: 'Compound interest is interest on interest, leading to exponential growth.',
+      },
+    ],
+  },
+  {
+    id: 'critical-thinking',
+    name: 'Critical Thinking',
+    description: 'Analyze information objectively and make a reasoned judgment.',
+    duration: 1,
+    questions: [
+      {
+        id: 'ct1',
+        question: 'A study shows a correlation between ice cream sales and crime rates. What is a likely explanation?',
+        options: ['Eating ice cream causes crime', 'Crime causes people to eat ice cream', 'A third factor, like hot weather, influences both', 'The study is flawed'],
+        answer: 'A third factor, like hot weather, influences both',
+        explanation: 'Correlation does not imply causation. A third variable is often responsible for the observed relationship.',
+      },
+    ],
+  },
+  {
+    id: 'attention-to-detail',
+    name: 'Attention to Detail',
+    description: 'Test your ability to spot small details and inconsistencies.',
+    duration: 1,
+    questions: [
+      {
+        id: 'ad1',
+        question: 'Find the different character: OOOOQOOOO',
+        options: ['First O', 'Fifth character', 'Last O', 'No difference'],
+        answer: 'Fifth character',
+        explanation: 'The fifth character in the sequence is a Q, not an O.',
+      },
+    ],
+  },
+  {
+    id: 'problem-solving',
+    name: 'Problem Solving',
+    description: 'Apply logical and creative thinking to solve complex problems.',
+    duration: 1,
+    questions: [
+      {
+        id: 'ps1',
+        question: 'You have a 3-gallon jug and a 5-gallon jug. How can you measure exactly 4 gallons of water?',
+        options: ['Fill the 5-gallon jug, pour into 3-gallon jug, empty 3-gallon jug, pour remaining 2 gallons, refill 5-gallon jug, fill 3-gallon jug from 5-gallon jug.', 'It is impossible', 'Fill the 3-gallon jug and pour it into the 5-gallon jug twice.', 'Fill the 5-gallon jug, pour into the 3-gallon jug, leaving 2 gallons. Empty the 3-gallon jug. Pour the 2 gallons into the 3-gallon jug. Fill the 5-gallon jug and top up the 3-gallon jug, leaving 4 gallons in the 5-gallon jug.'],
+        answer: 'Fill the 5-gallon jug, pour into the 3-gallon jug, leaving 2 gallons. Empty the 3-gallon jug. Pour the 2 gallons into the 3-gallon jug. Fill the 5-gallon jug and top up the 3-gallon jug, leaving 4 gallons in the 5-gallon jug.',
+        explanation: 'This is a classic water jug riddle. Following these steps precisely yields 4 gallons.',
+      },
+    ],
+  },
+  {
+    id: 'creativity',
+    name: 'Creativity',
+    description: 'Test your ability to think outside the box and generate new ideas.',
+    duration: 1,
+    questions: [
+      {
+        id: 'cr1',
+        question: 'How many uses can you think of for a brick?',
+        options: ['Only for building', 'As a doorstop', 'As a paperweight', 'Dozens of uses, including the above and more.'],
+        answer: 'Dozens of uses, including the above and more.',
+        explanation: 'This question tests divergent thinking. A brick can be used for many purposes beyond its primary function.',
+      },
+    ],
+  },
+  {
+    id: 'emotional-intelligence',
+    name: 'Emotional Intelligence',
+    description: 'Assess your ability to perceive, use, understand, and manage emotions.',
+    duration: 1,
+    questions: [
+      {
+        id: 'ei1',
+        question: 'A team member is visibly upset after a meeting. What is the best first step?',
+        options: ['Ignore them to give them space.', 'Tell them to cheer up.', 'Privately ask if they are okay and want to talk.', 'Report their behavior to HR.'],
+        answer: 'Privately ask if they are okay and want to talk.',
+        explanation: 'Showing empathy and offering support in a private, non-intrusive way is a key component of emotional intelligence.',
+      },
+    ],
+  },
 ];

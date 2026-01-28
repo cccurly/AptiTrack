@@ -53,6 +53,72 @@
       "description": "An image representing spatial reasoning.",
       "imageUrl": "https://images.unsplash.com/photo-1710244182004-1c708b3f146d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8M2QlMjBzaGFwZXN8ZW58MHx8fHwxNzY5NjE1MzUyfDA&ixlib=rb-4.1.0&q=80&w=1080",
       "imageHint": "3d shapes"
+    },
+    {
+      "id": "abstract",
+      "description": "An image representing abstract reasoning.",
+      "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxhYnN0cmFjdCUyMHNoYXBlc3xlbnwwfHx8fDE3Njk2MjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract shapes"
+    },
+    {
+      "id": "numerical",
+      "description": "An image representing numerical reasoning.",
+      "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxudW1iZXJzJTIwZGF0YXxlbnwwfHx8fDE3Njk2MjAwMDF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "numbers data"
+    },
+    {
+      "id": "error",
+      "description": "An image representing error checking.",
+      "imageUrl": "https://images.unsplash.com/photo-1576692453421-235d90518b5b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYWduaWZ5aW5nJTIwZ2xhc3N8ZW58MHx8fHwxNzY5NjIwMDAyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "magnifying glass"
+    },
+    {
+      "id": "reading",
+      "description": "An image representing reading comprehension.",
+      "imageUrl": "https://images.unsplash.com/photo-1456513080510-7bf3a84b82f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxvcGVuJTIwYm9va3xlbnwwfHx8fDE3Njk2MjAwMDN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "open book"
+    },
+    {
+      "id": "basic",
+      "description": "An image representing basic computer knowledge.",
+      "imageUrl": "https://images.unsplash.com/photo-1593640408182-31c70c8268f5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx2aW50YWdlJTIwY29tcHV0ZXJ8ZW58MHx8fHwxNzY5NjIwMDA0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "vintage computer"
+    },
+    {
+      "id": "financial",
+      "description": "An image representing financial literacy.",
+      "imageUrl": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb2lucyUyMGNoYXJ0fGVufDB8fHx8fDE3Njk2MjAwMDV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coins chart"
+    },
+    {
+      "id": "critical",
+      "description": "An image representing critical thinking.",
+      "imageUrl": "https://images.unsplash.com/photo-1587397279649-62394a10842c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxicmFpbiUyMGdlYXJzfGVufDB8fHx8fDE3Njk2MjAwMDZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "brain gears"
+    },
+    {
+      "id": "attention",
+      "description": "An image representing attention to detail.",
+      "imageUrl": "https://images.unsplash.com/photo-1521924340158-b047c9fa7334?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxuZWVkbGUlMjB0aHJlYWR8ZW58MHx8fHwxNzY5NjIwMDA3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "needle thread"
+    },
+    {
+      "id": "problem",
+      "description": "An image representing problem solving.",
+      "imageUrl": "https://images.unsplash.com/photo-1542382257-80dedb725088?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxtYXplJTIwcHV6emxlfGVufDB8fHx8fDE3Njk2MjAwMDh8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "maze puzzle"
+    },
+    {
+      "id": "creativity",
+      "description": "An image representing creativity.",
+      "imageUrl": "https://images.unsplash.com/photo-1511068797325-6083f0f872b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxpZGVhJTIwbGlnaHRidWxiZW58MHx8fHwxNzY5NjIwMDA5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "lightbulb idea"
+    },
+    {
+      "id": "emotional",
+      "description": "An image representing emotional intelligence.",
+      "imageUrl": "https://images.unsplash.com/photo-1599369934135-430330364953?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxoZWFydCUyMGJyYWlufGVufDB8fHx8fDE3Njk2MjAwMTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "heart brain"
     }
   ]
 }
